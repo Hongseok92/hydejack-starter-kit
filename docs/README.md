@@ -16,9 +16,12 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 {:.note}
 
 ## Education
-- Ph.D in Economics : 2021.09 ~ Present
-- M.A in Economics : Hanyang University 
-- B.A in Economics : Hanyang University
+- Ph.D in Economics: Iowa State University, 2021.09 ~ Present
+- M.A in Economics: Hanyang University 
+- B.A in Economics: Hanyang University
+
+## Research Interests
+- Macroeconomics, Labor Economcis, Public Economics
 
 
 ## Getting started
