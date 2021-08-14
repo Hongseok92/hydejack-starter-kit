@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: About Me
 description: >
   This is a brief summary of my academic CV. 
 hide_description: true
